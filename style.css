@@ -72,3 +72,10 @@ li.dropDown{
   border-style: dashed;
   padding-bottom: 4100px;
 }
+img{
+  height: 120px;
+  width: 150px;
+  position: absolute;
+  border-color: #f1f2f1;
+  border-style: dashed;
+}
