@@ -55,14 +55,14 @@ li.dropDown{
 
 .left{
   position: absolute;
-  left: 150px;
+  left: 120px;
   width: 200px;
   height: 120px;
 }
 
 .right{
   position: absolute;
-  right: 150px;
+  right: 120px;
   width: 200px;
   height: 120px;
 }
