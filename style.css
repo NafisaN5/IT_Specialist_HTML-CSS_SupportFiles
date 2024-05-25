@@ -58,6 +58,8 @@ li.dropDown{
   left: 160px;
   width: 200px;
   height: 120px;
+  border-color: #f1f2f1;
+  border-style: dashed;
 }
 
 .right{
@@ -65,4 +67,6 @@ li.dropDown{
   right: 160px;
   width: 200px;
   height: 120px;
+   border-color: #f1f2f1;
+  border-style: dashed;
 }
