@@ -56,17 +56,17 @@ li.dropDown{
 .left{
   position: absolute;
   left: 10px;
-  width: 300px;
+  width: 600px;
   height: 120px;
   border-color: #f1f2f1;
   border-style: dashed;
-  padding-bottom: 300px;
+  padding-bottom: 600px;
 }
 
 .right{
   position: absolute;
   right: 10px;
-  width: 300px;
+  width: 600px;
   height: 120px;
    border-color: #f1f2f1;
   border-style: dashed;
