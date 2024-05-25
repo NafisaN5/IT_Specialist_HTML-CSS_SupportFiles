@@ -25,7 +25,7 @@ li a, .dropBtn{
   padding: 12px 14px;
 }
 li a:hover, .dropDown:hover .dropBtn{
-  background-color: #F079A7;
+  background-color: #CD2050;
 }
 li.dropDown{
   display: inline-block;
